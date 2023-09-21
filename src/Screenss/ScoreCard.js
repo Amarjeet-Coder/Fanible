@@ -31,7 +31,7 @@ const {width,height}=Dimensions.get('screen')
 
                            <View>
                            <Text style={{color:"#1e90ff",fontWeight:'bold',fontSize:18}}>100%</Text>
-                           <Text style={{letterSpacing:0.5}}>Completion</Text>
+                           <Text style={{letterSpacing:0.5,color:"#1e90ff",}}>Completion</Text>
                            </View>
 
                          </View>
@@ -46,7 +46,7 @@ const {width,height}=Dimensions.get('screen')
 
                        <View>
                        <Text style={{color:'green',fontWeight:'bold',fontSize:18}}>03</Text>
-                       <Text style={{letterSpacing:0.5}}>Correct</Text>
+                       <Text style={{letterSpacing:0.5,color:'green'}}>Correct</Text>
                        </View>
 
                     </View>
@@ -61,7 +61,7 @@ const {width,height}=Dimensions.get('screen')
                     </View>
                        <View>
                        <Text style={{color:"#1e90ff",fontWeight:'bold',fontSize:18}}>10</Text>
-                       <Text style={{letterSpacing:0.5}}>Total Question</Text>
+                       <Text style={{letterSpacing:0.5,color:"#1e90ff"}}>Total Question</Text>
                        </View>
 
                       </View>
@@ -76,7 +76,7 @@ const {width,height}=Dimensions.get('screen')
 
                        <View>
                        <Text style={{color:'#e55039',fontWeight:'bold',fontSize:18}}>07</Text>
-                       <Text style={{letterSpacing:0.5}}>Wrong</Text>
+                       <Text style={{letterSpacing:0.5,color:'#e55039'}}>Wrong</Text>
                        </View>
 
                      </View>

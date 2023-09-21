@@ -13,9 +13,9 @@ const {width,height}=Dimensions.get('screen')
                 <Text style={{textAlign:'center',color:'#1e90ff',marginTop:40,fontSize:13}}>Question 8/10</Text>
 
                 <View style={{marginTop:12}}>
-                <Text style={{textAlign:'center'}} >In which year,Virat kohli</Text>
-                <Text style={{textAlign:'center'}}>made his debut in international</Text>
-                <Text style={{textAlign:'center'}}>cricket??</Text>
+                <Text style={{textAlign:'center',color:'white'}} >In which year,Virat kohli</Text>
+                <Text style={{textAlign:'center',color:'white'}}>made his debut in international</Text>
+                <Text style={{textAlign:'center',color:'white'}}>cricket??</Text>
                 </View>
 
                </View>
